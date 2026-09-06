@@ -1,0 +1,6 @@
+{
+  "name": "BlinkGrocer - Quick Store Pickup",
+  "description": "Quick-commerce grocery app with moving banners, real-time order tracking, pay-at-store with UPI or Cards, customer portal, and password-protected admin hub for inventory & order processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
